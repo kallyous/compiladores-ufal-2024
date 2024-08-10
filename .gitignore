@@ -1,0 +1,7 @@
+
+# Gerados pelo ANTLR
+*.interp
+*.tokens
+
+# Gerados quando compilo as tralhas do ANTLR
+*.class
